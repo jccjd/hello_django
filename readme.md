@@ -1,6 +1,13 @@
 django demo
 -----
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![Image](https://img.shields.io/badge/djano-demo-blue)](https://jccjd.top)
+
+
+(https://img.shields.io/badge/djano-demo-blue)
+-----
+
 **这是django实现的可分离的独立的插件**
 
 
