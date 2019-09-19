@@ -1,0 +1,12 @@
+<html>
+  <body>
+    <from action='/polls/search2' method='post'>
+      {% csrf_token %}
+      <input type='text' name='q'>
+      <input type='submit' value='Submit'>
+    </from>
+
+    <p> {{ rlt }}</p>
+  </body>
+
+</html>
