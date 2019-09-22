@@ -1,0 +1,14 @@
+发送时间：2019-09-20 20:45:19 	 服务器地址：http://0.0.0.0:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-20 20:46:10 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 09:36:20 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 09:39:20 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 09:40:16 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 09:40:27 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 09:40:41 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 09:41:02 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 09:42:06 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 09:42:18 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 09:43:53 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 09:44:01 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 09:57:39 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 
+发送时间：2019-09-21 10:03:32 	 服务器地址：http://127.0.0.1:8000/cmdb/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [Errno 111] Connection refused> 

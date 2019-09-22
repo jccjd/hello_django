@@ -4,13 +4,15 @@ from django.db import models
 # Create your models here.
 class User(models.Model):
     gender = (
-        ('male', 'man'),
-        ('female', 'woman'),
+        ('male', '男'),
+        ('female', '女'),
     )
+
     name = models.CharField(max_length=128, unique=True)
     password = models.CharField(max_length=256)
     c_time = models.DateTimeField(auto_now_add=True)
     email = models.EmailField(unique=True)
+
     sex = models.CharField(max_length=32, choices=gender, default='man')
     has_confirmed = models.BooleanField(default=False)
 
