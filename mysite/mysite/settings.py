@@ -31,6 +31,9 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'cmdb',
+    'login',
+    'captcha',
     'polls.apps.PollsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -77,7 +80,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'HOST': '127.0.0.1',
+        'HOST': '106.53.41.243',
         'PORT': '3306',
         'NAME': 'demo',
         'USER': 'root',
@@ -124,3 +127,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+EMAIL_HOST = 'smtp.sina.com'
+EMAIL_PORT = 587
+EMAIL_HOST_USER = 'jccjd'
+EMAIL_HOST_PASSWORD = '3f93841c34746a2c'
+DEFAULT_FROM_EMAIL = 'jccjd@sina.com'
+CONFIRM_DAYS = 7
